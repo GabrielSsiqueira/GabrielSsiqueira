@@ -9,11 +9,19 @@
 ---
 
 ## 🛠 Tecnologias e Skills
-- **Linguagens:** Python, PHP, HTML, CSS, JavaScript  
-- **Frameworks / Ferramentas:** Flask, React Native, django, Bootstrap  
+**Linguagens:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+**Frameworks**  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
+-**Ferramentas:** CSS, HTML, Bootstrap
 - **Banco de dados:** MariaDB, SQLite  
-- **Sistemas:** Linux Ubuntu/Bodhi  
-- **Outros:** Git, GitHub, Redes TCP/UDP/HTTP/SSH, Linux CLI  
+- **Sistemas:** Linux Lubuntu   
+- **Outros:** Git, GitHub, Redes TCP/UDP/HTTP/SSH, Linux   
 
 ---
 
