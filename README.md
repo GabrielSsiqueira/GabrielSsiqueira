@@ -18,7 +18,8 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
--**Ferramentas:** CSS, HTML, Bootstrap
+
+- **Ferramentas:** CSS, HTML, Bootstrap
 - **Banco de dados:** MariaDB, SQLite  
 - **Sistemas:** Linux Lubuntu   
 - **Outros:** Git, GitHub, Redes TCP/UDP/HTTP/SSH, Linux   
